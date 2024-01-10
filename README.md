@@ -24,6 +24,14 @@ ABREATH integrates seamlessly with a hardware device containing an Analog Alcoho
 The app assists users in making informed decisions about their ability to drive safely based on accurate breathalyzer results.
 
 
+![abreath4](https://github.com/antoinegaubil/Breathalyzer-Android-Applicatiom/assets/90474617/5f3412f2-b7a4-42fe-a343-be5c0a6d4bba)
+
+![abreath3](https://github.com/antoinegaubil/Breathalyzer-Android-Applicatiom/assets/90474617/ddb29654-9bc9-4a85-86b8-7afa65e330a9)
+
+![abreath1](https://github.com/antoinegaubil/Breathalyzer-Android-Applicatiom/assets/90474617/9da3e728-8014-4f2f-aecd-2cf024f16120)
+
+![abreath2](https://github.com/antoinegaubil/Breathalyzer-Android-Applicatiom/assets/90474617/0955ee89-aca6-4682-9216-b21585ea23d2)
+
 
 
 
